@@ -2,6 +2,3 @@ nginx
 mysql
 redis
 nacos
-postgres
-mongo
-minio
