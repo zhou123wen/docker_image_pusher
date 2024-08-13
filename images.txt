@@ -1,4 +1,1 @@
-nginx
-mysql
-redis
 nacos
