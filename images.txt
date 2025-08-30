@@ -1,1 +1,2 @@
-minio/minio:RELEASE
+mysql/mysql:8.0.43
+
